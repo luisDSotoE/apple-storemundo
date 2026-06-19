@@ -8,7 +8,7 @@ export default function Navbar() {
       {/* Logo y Nombre */}
       <Link href="/" className="flex items-center gap-3">
         <Image
-          src="/logo.jpg"
+          src="/Logo.jpg"
           alt="Apple Store Mundo Logo"
           width={50}
           height={50}

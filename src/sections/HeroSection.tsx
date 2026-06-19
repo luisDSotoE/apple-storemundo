@@ -22,7 +22,7 @@ export default function HeroSection() {
             className="mb-8"
           >
              <Image
-              src="/logo.jpg"
+              src="/Logo.jpg"
               alt="Apple Store Mundo"
               width={180}
               height={180}

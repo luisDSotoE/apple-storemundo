@@ -67,7 +67,7 @@ export default function Footer() {
         <div className="pt-8 border-t border-white/10 flex flex-col md:flex-row items-center justify-between gap-4">
           <div className="flex items-center gap-3">
             <Image
-              src="/logo.jpg"
+              src="/Logo.jpg"
               alt="Logo Apple Store Mundo"
               width={35}
               height={35}
